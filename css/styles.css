@@ -26,7 +26,7 @@ body {
 }
 
 p {
-    color: #858585;
+    color: #000000;
 }
 
 .pDark p {
@@ -249,12 +249,15 @@ a {
     }
 
     .page-section p {
-        font-size: 1.1em;
+        font-size: 1.3em;
         line-height: 1.6em;
     }
 
 .darkBg {
     background: #2d3538;
+}
+.green {
+    background: #75ba1ade;
 }
 
     .darkBg h2 {
@@ -639,7 +642,7 @@ body {
 
 footer {
     background-color: #242424;
-    color: #8e8e8e;
+    color: #000000;
     font-size: 14px;
     padding-top: 20px;
 }
@@ -949,3 +952,12 @@ footer {
     text-align: center;
   }
 }  
+
+.topRightShadow
+{
+	margin-top: 25px;
+  width:95%;
+  height:80%;
+  border: solid 1px #555;
+ 
+}
